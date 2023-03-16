@@ -6,7 +6,6 @@ import FavoriList from './page/FavoriList'
 import Favori from './page/Favori'
 import AutLayout from './page/autLayout'
 import Login from './page/autLayout/Login'
-import { Navigate } from 'react-router-dom'
 
 
 
@@ -14,7 +13,7 @@ import { Navigate } from 'react-router-dom'
 const routes=[
     {
         path: "/",
-        element:element=<Navigate to='/ReactReduxRepo'> <HomeLayout /></Navigate>,
+        element: <HomeLayout />,
         children: [
           {
             index: true,

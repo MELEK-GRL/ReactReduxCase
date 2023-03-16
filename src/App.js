@@ -1,7 +1,7 @@
-
-import {useRoutes} from 'react-router-dom'
-import routes from './routes'
+import Layout from './components/Layout/Layout'
 
 export default function App() {
-  return useRoutes(routes)
+  return (
+    <Layout/>
+  )
 }
