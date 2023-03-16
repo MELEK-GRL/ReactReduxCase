@@ -1,14 +1,13 @@
 {
   "files": {
     "main.css": "/ReactReduxCase/static/css/main.4b71312c.css",
-    "main.js": "/ReactReduxCase/static/js/main.f6faebb5.js",
+    "main.js": "/ReactReduxCase/static/js/main.5a054756.js",
     "static/media/space.mp4": "/ReactReduxCase/static/media/space.7431665f4adda1c56d66.mp4",
     "static/media/spaceImg.jpg": "/ReactReduxCase/static/media/spaceImg.e1d1973578dc15a5911c.jpg",
     "static/media/w-2.jpg": "/ReactReduxCase/static/media/w-2.e9b8484d7a37409260d2.jpg",
     "static/media/w-3.jpg": "/ReactReduxCase/static/media/w-3.a9c8c6071818245f5283.jpg",
     "static/media/bootsrap.png": "/ReactReduxCase/static/media/bootsrap.34ce1e8a666af457cf08.png",
     "static/media/profil4.jpg": "/ReactReduxCase/static/media/profil4.5482c436e96a503ea95a.jpg",
-    "static/media/angular.png": "/ReactReduxCase/static/media/angular.d6cb7bdb5713effc2de6.png",
     "static/media/profil5.jpg": "/ReactReduxCase/static/media/profil5.66e3f641e27a4133dc4e.jpg",
     "static/media/profil6.jpg": "/ReactReduxCase/static/media/profil6.6281ebdeb0a038830616.jpg",
     "static/media/profil3.jpg": "/ReactReduxCase/static/media/profil3.222d8948940d3b3dbb6c.jpg",
@@ -16,7 +15,6 @@
     "static/media/react.png": "/ReactReduxCase/static/media/react.6e096c5486488bfa51b1.png",
     "static/media/profil2.jpg": "/ReactReduxCase/static/media/profil2.c93f9d64f08fce10570a.jpg",
     "static/media/africa.jpg": "/ReactReduxCase/static/media/africa.66c947985398ece5cac7.jpg",
-    "static/media/vuej.jpeg": "/ReactReduxCase/static/media/vuej.d4da072ce05655592473.jpeg",
     "static/media/w-1.jpg": "/ReactReduxCase/static/media/w-1.a1f4513e1ac91f81e6d7.jpg",
     "static/media/css3.webp": "/ReactReduxCase/static/media/css3.e27fc8de656357a336ef.webp",
     "static/media/tailwind.jpg": "/ReactReduxCase/static/media/tailwind.e707dc98eae0f49783f6.jpg",
@@ -26,10 +24,10 @@
     "static/media/slick.woff": "/ReactReduxCase/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/ReactReduxCase/index.html",
     "main.4b71312c.css.map": "/ReactReduxCase/static/css/main.4b71312c.css.map",
-    "main.f6faebb5.js.map": "/ReactReduxCase/static/js/main.f6faebb5.js.map"
+    "main.5a054756.js.map": "/ReactReduxCase/static/js/main.5a054756.js.map"
   },
   "entrypoints": [
     "static/css/main.4b71312c.css",
-    "static/js/main.f6faebb5.js"
+    "static/js/main.5a054756.js"
   ]
 }
