@@ -1,13 +1,17 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+@import url('https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.css');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick-theme.min.css');
+
+@layer components{
+    .hoverBtn{
+        @apply bg-gray-800 p-2 rounded-md text-white hover:text-gray-800 hover:bg-white hover:border-gray-800 border-2 hover:border-2 hover:font-semibold font-semibold
+    }
+    .hoverBtnRed{
+        @apply bg-red-800 p-2 rounded-md text-white hover:text-red-800 hover:bg-white hover:border-red-800 border-2 hover:border-2 hover:font-semibold font-semibold
+    }
+   
+    
 }
